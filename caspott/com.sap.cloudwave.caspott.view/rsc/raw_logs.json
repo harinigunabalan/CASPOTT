@@ -1,0 +1,74 @@
+{
+    "logdata" : [ {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUoqmVlPN2oKLwvyY",
+      "_score" : 1.7515676,
+      "_source":{	"message":"2015-11-10 21:34:37 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getTimestamp,@ResponseTime: 0",
+      				"@version":"1",
+      				"@timestamp":"2015-11-10T21:34:43.588Z",
+      				"type":"syslog",
+      				"file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+      				"host":"client1",
+      				"offset":"30588",
+      				"tags":["_grokparsefailure"],
+      				"syslog_severity_code":5,
+      				"syslog_facility_code":1,
+      				"syslog_facility":"user-level",
+      				"syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUoqmVlPN2oKLwvyc",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:34:42 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getAuthConf,@ResponseTime: 0","@version":"1","@timestamp":"2015-11-10T21:34:43.589Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"31110","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUuCuVlPN2oKLwvyt",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:34:59 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.auth.AuthController,@Procedure: processRequest,@ResponseTime: 1","@version":"1","@timestamp":"2015-11-10T21:35:06.088Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"33314","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUuCuVlPN2oKLwvyy",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:35:05 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.auth.AuthController,@Procedure: processRequest,@ResponseTime: 1","@version":"1","@timestamp":"2015-11-10T21:35:06.089Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"33963","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUaACVlPN2oKLwvxs",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:33:41 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.auth.AuthController,@Procedure: processRequest,@ResponseTime: 9","@version":"1","@timestamp":"2015-11-10T21:33:43.592Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"24877","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUgmXVlPN2oKLwvx8",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:34:09 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getIpAddress,@ResponseTime: 0","@version":"1","@timestamp":"2015-11-10T21:34:11.088Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"26956","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUc7wVlPN2oKLwvxw",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:33:54 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getIpAddress,@ResponseTime: 0","@version":"1","@timestamp":"2015-11-10T21:33:56.088Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"25396","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUlfOVlPN2oKLwvyO",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:34:26 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getJwtConf,@ResponseTime: 0","@version":"1","@timestamp":"2015-11-10T21:34:31.089Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"29292","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUqYIVlPN2oKLwvyi",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:34:47 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getTimestamp,@ResponseTime: 0","@version":"1","@timestamp":"2015-11-10T21:34:51.089Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"31886","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    }, {
+      "_index" : "logstash-2015.11.10",
+      "_type" : "syslog",
+      "_id" : "AVDzUh0mVlPN2oKLwvyE",
+      "_score" : 1.7515676,
+      "_source":{"message":"2015-11-10 21:34:15 INFO  TracingHandler:176 - @Class: src.main.java.cloudmore.cw.conf.ResponseObject,@Procedure: getJwtConf,@ResponseTime: 0","@version":"1","@timestamp":"2015-11-10T21:34:16.088Z","type":"syslog","file":"/home/ubuntu/cw-java-auth/log4j-application.log","host":"client1","offset":"27994","tags":["_grokparsefailure"],"syslog_severity_code":5,"syslog_facility_code":1,"syslog_facility":"user-level","syslog_severity":"notice"}
+    } ]
+  }

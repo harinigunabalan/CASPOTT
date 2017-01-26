@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: View
+Bundle-SymbolicName: com.sap.cloudwave.caspott.view;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: SAP
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui,
+ org.eclipse.ui.ide,
+ org.eclipse.ui.editors,
+ org.eclipse.e4.ui.di
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.google.gson;version="2.2.4",
+ org.eclipse.core.resources

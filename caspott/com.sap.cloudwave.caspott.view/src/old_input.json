@@ -1,0 +1,94 @@
+{
+"logdata":[
+{
+  "_index": "logstash-2015.10.01",
+  "_type": "syslog",
+  "_id": "AVAjlA6EVlPN2oKLwuTt",
+  "_score": null,
+  "_source": {
+    "message": "Oct  1 13:25:14 localhost,[WARN],TestElasticSearch:src.com.sap.cloudwave.caspott.Calculator:13,- Sleeping for 1042ms, @ResponseTime: 56778, @NumberOfCalls: 56, @NumberOfErrors: 10",
+    "@version": "1",
+    "@timestamp": "2015-10-01T13:25:16.082Z",
+    "type": "syslog",
+    "file": "/var/log/syslog",
+    "host": "client1",
+    "offset": "1850",
+    "tags": [
+      "_grokparsefailure"
+    ],
+    "syslog_severity_code": 5,
+    "syslog_facility_code": 1,
+    "syslog_facility": "user-level",
+    "syslog_severity": "notice"
+  },
+  "fields": {
+    "@timestamp": [
+      1443705916082
+    ]
+  },
+  "sort": [
+    1443705916082
+  ]
+},
+{
+  "_index": "logstash-2015.10.01",
+  "_type": "syslog",
+  "_id": "AVAjlA6EVlPN2oKLwuTt",
+  "_score": null,
+  "_source": {
+    "message": "Oct  1 13:25:14 localhost,[WARN],test:src.test.openThisFile:5,- Sleeping for 1042ms, @ResponseTime: 10235, @NumberOfCalls: 26, @NumberOfErrors: 47",
+    "@version": "1",
+    "@timestamp": "2015-10-01T13:25:16.082Z",
+    "type": "syslog",
+    "file": "/var/log/syslog",
+    "host": "client1",
+    "offset": "1850",
+    "tags": [
+      "_grokparsefailure"
+    ],
+    "syslog_severity_code": 5,
+    "syslog_facility_code": 1,
+    "syslog_facility": "user-level",
+    "syslog_severity": "notice"
+  },
+  "fields": {
+    "@timestamp": [
+      1443705916082
+    ]
+  },
+  "sort": [
+    1443705916082
+  ]
+},
+{
+  "_index": "logstash-2015.10.01",
+  "_type": "syslog",
+  "_id": "AVAjlA6EVlPN2oKLwuTt",
+  "_score": null,
+  "_source": {
+    "message": "Oct  1 13:25:14 localhost,[WARN],test:src.test.testing:4,- Sleeping for 1042ms, @ResponseTime: 2376, @NumberOfCalls: 37, @NumberOfErrors: 24",
+    "@version": "1",
+    "@timestamp": "2015-10-01T13:25:16.082Z",
+    "type": "syslog",
+    "file": "/var/log/syslog",
+    "host": "client1",
+    "offset": "1850",
+    "tags": [
+      "_grokparsefailure"
+    ],
+    "syslog_severity_code": 5,
+    "syslog_facility_code": 1,
+    "syslog_facility": "user-level",
+    "syslog_severity": "notice"
+  },
+  "fields": {
+    "@timestamp": [
+      1443705916082
+    ]
+  },
+  "sort": [
+    1443705916082
+  ]
+}
+]
+}

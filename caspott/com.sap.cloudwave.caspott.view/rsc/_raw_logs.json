@@ -1,0 +1,285 @@
+{ 
+      "logdata":[  
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5Zd1VlPN2oKLwvw5",
+            "_score":2.0408773,
+            "_source":{  
+               "message":"2015-11-10 14:56:05 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 7",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:06.087Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"23302",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5eHoVlPN2oKLwvw8",
+            "_score":2.0408773,
+            "_source":{  
+               "message":"2015-11-10 14:56:20 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 31",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:26.087Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"23653",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5iZEVlPN2oKLwvxA",
+            "_score":2.0408773,
+            "_source":{  
+               "message":"2015-11-10 14:56:40 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 34",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:43.587Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"24125",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5WL2VlPN2oKLwvw2",
+            "_score":1.5295303,
+            "_source":{  
+               "message":"2015-11-10 14:55:50 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 8",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:55:53.588Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"22949",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5fVxVlPN2oKLwvw9",
+            "_score":1.5295303,
+            "_source":{  
+               "message":"2015-11-10 14:56:25 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 12",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:31.087Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"23771",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5hSBVlPN2oKLwvw_",
+            "_score":1.5295303,
+            "_source":{  
+               "message":"2015-11-10 14:56:35 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 10",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:38.587Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"24007",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5U-8VlPN2oKLwvw1",
+            "_score":1.3416407,
+            "_source":{  
+               "message":"2015-11-10 14:55:45 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 35",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:55:48.590Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"22831",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5XZ9VlPN2oKLwvw3",
+            "_score":1.3416407,
+            "_source":{  
+               "message":"2015-11-10 14:55:55 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 31",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:55:58.588Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"23066",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5cSdVlPN2oKLwvw7",
+            "_score":1.3416407,
+            "_source":{  
+               "message":"2015-11-10 14:56:15 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 1",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:18.587Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"23536",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         {  
+            "_index":"logstash-2015.11.10",
+            "_type":"syslog",
+            "_id":"AVDx5jnNVlPN2oKLwvxB",
+            "_score":1.3416407,
+            "_source":{  
+               "message":"2015-11-10 14:56:45 INFO  TracingHandler:176 - @Class: cloudmore.cw.auth.AuthActive,@Procedure: run,@ResponseTime: 2",
+               "@version":"1",
+               "@timestamp":"2015-11-10T14:56:48.588Z",
+               "type":"syslog",
+               "file":"/home/ubuntu/cw-java-auth/log4j-application.log",
+               "host":"client1",
+               "offset":"24243",
+               "tags":[  
+                  "_grokparsefailure"
+               ],
+               "syslog_severity_code":5,
+               "syslog_facility_code":1,
+               "syslog_facility":"user-level",
+               "syslog_severity":"notice"
+            }
+         },
+         
+{
+  "_index": "logstash-2015.10.01",
+  "_type": "syslog",
+  "_id": "AVAjlA6EVlPN2oKLwuTt",
+  "_score": null,
+  "_source": {
+    "message": "2015-11-10 14:56:45 INFO  TracingHandler:176 - @Class: src.test.openThisFile,@Procedure: test,@ResponseTime: 102",
+    "@version": "1",
+    "@timestamp": "2015-10-01T13:25:16.082Z",
+    "type": "syslog",
+    "file": "/var/log/syslog",
+    "host": "client1",
+    "offset": "1850",
+    "tags": [
+      "_grokparsefailure"
+    ],
+    "syslog_severity_code": 5,
+    "syslog_facility_code": 1,
+    "syslog_facility": "user-level",
+    "syslog_severity": "notice"
+  },
+  "fields": {
+    "@timestamp": [
+      1443705916082
+    ]
+  },
+  "sort": [
+    1443705916082
+  ]
+},
+{
+  "_index": "logstash-2015.10.01",
+  "_type": "syslog",
+  "_id": "AVAjlA6EVlPN2oKLwuTt",
+  "_score": null,
+  "_source": {
+    "message": "2015-11-10 14:56:45 INFO  TracingHandler:176 - @Class: src.test.testing,@Procedure: test,@ResponseTime: 2",
+    "@version": "1",
+    "@timestamp": "2015-10-01T13:25:16.082Z",
+    "type": "syslog",
+    "file": "/var/log/syslog",
+    "host": "client1",
+    "offset": "1850",
+    "tags": [
+      "_grokparsefailure"
+    ],
+    "syslog_severity_code": 5,
+    "syslog_facility_code": 1,
+    "syslog_facility": "user-level",
+    "syslog_severity": "notice"
+  },
+  "fields": {
+    "@timestamp": [
+      1443705916082
+    ]
+  },
+  "sort": [
+    1443705916082
+  ]
+}         
+      ]
+}

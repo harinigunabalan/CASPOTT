@@ -1,0 +1,34 @@
+{
+"logdata":[
+{
+  "_source": {
+    "projectName": "TestElasticSearch",
+    "className": "src.com.sap.cloudwave.caspott.Calculator",
+    "lineNumber" : "13",
+    "responseTime" : "56778",
+    "numberOfCalls" : "56",
+    "numberOfErrors" : "10"
+  }
+},
+{
+  "_source": {
+    "projectName": "test",
+    "className": "src.test.openThisFile",
+    "lineNumber" : "5",
+    "responseTime" : "10235",
+    "numberOfCalls" : "26",
+    "numberOfErrors" : "47"
+  }
+},
+{
+  "_source": {
+    "projectName": "test",
+    "className": "src.test.openThisFile",
+    "lineNumber" : "4",
+    "responseTime" : "2376",
+    "numberOfCalls" : "37",
+    "numberOfErrors" : "24"
+  }
+}
+]
+}

@@ -1,0 +1,4 @@
+caspott
+=======
+
+Critical Artifact Spotter
